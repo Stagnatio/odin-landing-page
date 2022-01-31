@@ -12,9 +12,14 @@ header {
 a {
     color: white;
     text-decoration: none;
-    padding: 30px;
 }
 
+.links {
+    display: flex;
+    justify-content: right;
+    padding: 30px;
+    column-gap: 30px;
+}
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -85,7 +90,7 @@ body {
     margin: 50px;
     margin-left: 500px;
     margin-right: 500px;
-    column-gap: 20px;
+    column-gap: 100px;
 }
 
 .ad1 {
@@ -107,4 +112,9 @@ button {
     padding: 8px 32px;
     border-radius: 8px;
     font-family: 'Roboto', sans-serif;
+    font-style: bold;
+}
+
+.signup2 {
+    border-color: white;
 }
