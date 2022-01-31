@@ -1,0 +1,95 @@
+header {
+    background: #1F2937;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+/*
+body {
+
+}
+*/
+.signup {
+    background: #1F2937;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero2 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.quote {
+    background: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    /*flex-direction: column; */
+    padding: 50px;
+}
+
+.quote1 {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.quote2 {
+    font-weight: bold;
+}
+
+.ad {
+    background: #3882F6;
+    color: white;
+    display: flex;
+    justify-content: center;
+    /*flex-direction: column; */
+    padding: 30px;
+    margin: 50px;
+}
+
+.ad1 {
+    font-weight: bold;
+}
+
+footer {
+    background: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+button {
+    background: #3882F6;
+    color:white;
+    padding: 8px 32px;
+    border-radius: 8px;
+}
