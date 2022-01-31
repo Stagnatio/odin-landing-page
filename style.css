@@ -6,6 +6,7 @@ header {
     padding: 8px;
     padding-left: 300px;
     padding-right: 300px;
+    font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -13,11 +14,11 @@ a {
     text-decoration: none;
     padding: 30px;
 }
-/*
-body {
 
+body {
+    font-family: 'Roboto', sans-serif;
 }
-*/
+
 .signup {
     background: #1F2937;
     padding: 50px;
@@ -97,6 +98,7 @@ footer {
     display: flex;
     justify-content: center;
     padding: 30px;
+    font-family: 'Roboto', sans-serif;
 }
 
 button {
@@ -104,4 +106,5 @@ button {
     color:white;
     padding: 8px 32px;
     border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
 }
